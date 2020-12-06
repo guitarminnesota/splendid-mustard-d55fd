@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Robert Bell
-    subtitle: Guitarist. Bandleader Composer Producer
+    subtitle: Guitarist. Bandleader. Composer Producer
     content: >-
       Robert Bell’s passion shines through his guitar music, and his diversity
       in the jazz genre creates energizing live performances.
