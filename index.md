@@ -9,7 +9,7 @@ sections:
       in the jazz genre creates energizing live performances.
     actions:
       - label: Know more
-        url: /pricing
+        url: /bio
         style: primary
       - label: Learn More
         url: /features
