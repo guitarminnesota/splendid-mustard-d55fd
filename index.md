@@ -279,7 +279,7 @@ sections:
     recent_count: 3
     show_image: true
     show_date: true
-    show_categories: true
+    show_categories: false
     show_author: false
     show_excerpt: true
     align: center
