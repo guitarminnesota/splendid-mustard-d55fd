@@ -8,7 +8,7 @@ sections:
       Robert Bell’s passion shines through his guitar music, and his diversity
       in the jazz genre creates energizing live performances.
     actions:
-      - label: Try Free
+      - label: Know more
         url: /pricing
         style: primary
       - label: Learn More
