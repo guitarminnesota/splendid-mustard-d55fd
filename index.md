@@ -11,7 +11,7 @@ sections:
       - label: Know more
         url: /about
         style: primary
-    image: images/classic/hero.png
+    image: Robert-2014-WebRes_006.jpg
     media_position: left
     media_width: fifty
     align: left
