@@ -287,7 +287,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    category: _data/categories/category-getby18yy.json
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
